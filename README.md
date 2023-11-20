@@ -8,11 +8,16 @@ Link do Figma: https://www.figma.com/file/HaNCUNHRVd9xLuyiIW5LJ5/Projeto-Integra
 
 Obs.: O Site utiliza banco de dados MsSql Server, Php 7.1, para funcionar favor salvar os ficheiros nas pastas descritas:
 
-00_Projeto_Integrador	\			
-00_Projeto_Integrador	\	index.php		
+00_Projeto_Integrador	\
+
+00_Projeto_Integrador	\	index.php
+
 00_Projeto_Integrador	\	iniciar.php		
+
 00_Projeto_Integrador	\	plataforma.php		
+
 00_Projeto_Integrador	\	connections	\	config.php
+
 00_Projeto_Integrador	\	connections	\	mssql_con.php
 00_Projeto_Integrador	\	connections	\	sqlserver.php
 00_Projeto_Integrador	\	css	\	estilo.css
