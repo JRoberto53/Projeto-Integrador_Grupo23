@@ -19,7 +19,9 @@ Obs.: O Site utiliza banco de dados MsSql Server, Php 7.1, para funcionar favor 
 00_Projeto_Integrador	\	connections	\	config.php
 
 00_Projeto_Integrador	\	connections	\	mssql_con.php
+
 00_Projeto_Integrador	\	connections	\	sqlserver.php
+
 00_Projeto_Integrador	\	css	\	estilo.css
 00_Projeto_Integrador	\	erro	\	error.php
 00_Projeto_Integrador	\	erro	\	erros.php
