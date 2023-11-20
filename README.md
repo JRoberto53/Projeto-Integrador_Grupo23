@@ -1,6 +1,6 @@
 Projeto-Integrador_Grupo23
 
-PARTICIPANTES GRUPO 23: Elton Juliano Matos dos Santos, José Roberto Oliveira e Hermes Arnildo Littig
+PARTICIPANTES GRUPO 23 : Elton Juliano Matos dos Santos, José Roberto Oliveira e Hermes Arnildo Littig
 
 Link do vídeo no Youtube: https://youtu.be/PtoqWH-ur4A
 
